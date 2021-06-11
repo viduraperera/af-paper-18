@@ -1,0 +1,7 @@
+1. npm init -y.
+2. npm install express mongoose cors dotenv body-parser nodemon config.
+3. "type": "module", => should below main in package.json file to enable import.
+4. build the index file
+5. add "start": "nodemon index.js" below scripts in package.json to enable nodemon
+6. .env build
+7.
